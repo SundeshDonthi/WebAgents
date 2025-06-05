@@ -1,0 +1,31 @@
+
+{
+        "index": 0, "reference_task_length": 7,
+        "evaluation": [
+            {
+                "match_function_name": "element_path_exactly_match",
+                "method": "selector",
+                "content": {
+                    "reference_answer": #product-shelf-9780316588447 > div > div.product-info-view > div.product-shelf-title > h3 > a",
+                    "netloc": “barnesandnoble",
+                    "url": " https://www.barnesandnoble.com/w/the-knight-and-the-moth-rachel-gillig/1146221051?ean=9780316588447"
+                }
+            },
+{
+                "match_function_name": "element_path_exactly_match",
+                "method": "selector",
+                "content": {
+                    "reference_answer": #atcBtn_btn_1",
+                    "netloc": “ebay",
+                    "url": " https://www.ebay.com/itm/177113635382?_skw=The+Knight+and+the+Moth+%28B%26N+Exclusive+Edition%29&itmmeta
+=01JX063V3V1YJM0JVCPCWCZJK7&hash=item293ccb9a36:g:-bsAAOSwfXZn17Tp&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1cwh0xNIvYIvulNETUoZE1jq
+R8ecOagSMR0vYsoWoPHrgFwIWVy9mgTs9kPIY4pdptlkyxCU%2F9xltrYCnPxj6nqBycIoEceKRaMNpKGij9PYXxo0gVkxMSayC5%2BGENA2rB17%2FJusfYisP%2FyB%2Fg5
+NoSBFMb%2BdEfsQgB0bgBSdCzyLdKCCxaEtRcuXsgMUEATAL6vzoDPngqYRmrTSgltY%2Bvkw2bjQWvOeML2CrWwVkpB1ackSe7B4cW%2FK%2FBjgyWAJIKUlG8BuMFKiWGLXV
+CMRogsPvLVWq7ktkkm%2FPEdHmihjk0VJUWHXiZt9QcKDQV9qxsN72Kfef3b6VMkCorLt6AZ%7Ctkp%3ABk9SR4Cyj4boZQ "
+                }
+            },
+        ],
+
+
+        "subtask 1": "Go to BarnesandNoble.com and find the best-selling mystery book",
+        "subtask 2": "Search for that book on Ebay and add it to cart”
